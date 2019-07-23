@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<task>
+    <taskName>test1111</taskName>
+    <versionNumber>ftddd1111</versionNumber>
+    <version>大版本</version>
+    <actionType>备份,升级,重启</actionType>
+    <createTime>20190723151203</createTime>
+    <updateTime>20190723151203</updateTime>
+    <moduleList>
+        <module moduleName="能力中心">
+            <moduleName>能力中心</moduleName>
+            <level>1</level>
+            <subMoList>
+                <subModule subName="upm_sd">
+                    <name>upm_sd</name>
+                    <active>4</active>
+                </subModule>
+                <subModule subName="upm_bj">
+                    <name>upm_bj</name>
+                    <active>4</active>
+                </subModule>
+                <subModule subName="charging_sd">
+                    <name>charging_sd</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="charging_bj">
+                    <name>charging_bj</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="content_sd">
+                    <name>content_sd</name>
+                    <active>1</active>
+                </subModule>
+                <subModule subName="content_bj">
+                    <name>content_bj</name>
+                    <active>1</active>
+                </subModule>
+                <subModule subName="product_sd">
+                    <name>product_sd</name>
+                    <active>1</active>
+                </subModule>
+                <subModule subName="product_bj">
+                    <name>product_bj</name>
+                    <active>1</active>
+                </subModule>
+                <subModule subName="subscribe_sd">
+                    <name>subscribe_sd</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="subscribe_bj">
+                    <name>subscribe_bj</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="order_sd">
+                    <name>order_sd</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="order_bj">
+                    <name>order_bj</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="campaign_sd">
+                    <name>campaign_sd</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="campaign_bj">
+                    <name>campaign_bj</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="publicinfo_sd">
+                    <name>publicinfo_sd</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="publicinfo_bj">
+                    <name>publicinfo_bj</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="payment_sd">
+                    <name>payment_sd</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="payment_bj">
+                    <name>payment_bj</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="cgw_sd">
+                    <name>cgw_sd</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="cgw_bj">
+                    <name>cgw_bj</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="plmf_sd">
+                    <name>plmf_sd</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="plmf_bj">
+                    <name>plmf_bj</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="Sns_sd">
+                    <name>Sns_sd</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="Sns_bj">
+                    <name>Sns_bj</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="voucher_sq">
+                    <name>voucher_sq</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="voucher_bj">
+                    <name>voucher_bj</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="ticket_sq">
+                    <name>ticket_sq</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="ticket_bj">
+                    <name>ticket_bj</name>
+                    <active>2</active>
+                </subModule>
+                <subModule subName="timerjob_sq">
+                    <name>timerjob_sq</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="timerjobmgt_sq">
+                    <name>timerjobmgt_sq</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="ticketmgt_sq">
+                    <name>ticketmgt_sq</name>
+                    <active>0</active>
+                </subModule>
+                <subModule subName="ticketmgt_bj">
+                    <name>ticketmgt_bj</name>
+                    <active>0</active>
+                </subModule>
+            </subMoList>
+        </module>
+        <module moduleName="iserver">
+            <moduleName>iserver</moduleName>
+            <level>2</level>
+            <subMoList>
+                <subModule subName="iserver_sd">
+                    <name>iserver_sd</name>
+                    <active>1</active>
+                </subModule>
+                <subModule subName="iserver_bj">
+                    <name>iserver_bj</name>
+                    <active>1</active>
+                </subModule>
+            </subMoList>
+        </module>
+        <module moduleName="CXU">
+            <moduleName>CXU</moduleName>
+            <level>3</level>
+            <subMoList>
+                <subModule subName="aserver_sd">
+                    <name>aserver_sd</name>
+                    <active>3</active>
+                </subModule>
+                <subModule subName="aserver_bj">
+                    <name>aserver_bj</name>
+                    <active>3</active>
+                </subModule>
+            </subMoList>
+        </module>
+        <module moduleName="互动server">
+            <moduleName>互动server</moduleName>
+            <level>4</level>
+            <subMoList>
+                <subModule subName="hqdjservice_bj">
+                    <name>hqdjservice_bj</name>
+                    <active>4</active>
+                </subModule>
+                <subModule subName="hqdjservice_sd">
+                    <name>hqdjservice_sd</name>
+                    <active>4</active>
+                </subModule>
+            </subMoList>
+        </module>
+        <module moduleName="门户">
+            <moduleName>门户</moduleName>
+            <level>5</level>
+            <subMoList>
+                <subModule subName="rbc_sd">
+                    <name>rbc_sd</name>
+                    <active>5</active>
+                </subModule>
+                <subModule subName="rbc_bj">
+                    <name>rbc_bj</name>
+                    <active>5</active>
+                </subModule>
+            </subMoList>
+        </module>
+        <module moduleName="组合服务">
+            <moduleName>组合服务</moduleName>
+            <level>6</level>
+            <subMoList>
+                <subModule subName="hqdjservice_bj">
+                    <name>hqdjservice_bj</name>
+                    <active>6</active>
+                </subModule>
+                <subModule subName="hqdjservice_sd">
+                    <name>hqdjservice_sd</name>
+                    <active>6</active>
+                </subModule>
+            </subMoList>
+        </module>
+        <module moduleName="组件服务">
+            <moduleName>组件服务</moduleName>
+            <level>7</level>
+            <subMoList>
+                <subModule subName="rbc_sd">
+                    <name>rbc_sd</name>
+                    <active>3</active>
+                </subModule>
+                <subModule subName="rbc_bj">
+                    <name>rbc_bj</name>
+                    <active>3</active>
+                </subModule>
+            </subMoList>
+        </module>
+        <module moduleName="门户其它">
+            <moduleName>门户其它</moduleName>
+            <level>8</level>
+            <subMoList>
+                <subModule subName="hqdjservice_bj">
+                    <name>hqdjservice_bj</name>
+                    <active>6</active>
+                </subModule>
+                <subModule subName="hqdjservice_sd">
+                    <name>hqdjservice_sd</name>
+                    <active>6</active>
+                </subModule>
+            </subMoList>
+        </module>
+        <module moduleName="接口机">
+            <moduleName>接口机</moduleName>
+            <level>9</level>
+            <subMoList>
+                <subModule subName="weibo_sd">
+                    <name>weibo_sd</name>
+                    <active>3</active>
+                </subModule>
+                <subModule subName="weibo_bj">
+                    <name>weibo_bj</name>
+                    <active>3</active>
+                </subModule>
+            </subMoList>
+        </module>
+        <module moduleName="其它">
+            <moduleName>其它</moduleName>
+            <level>10</level>
+            <subMoList>
+                <subModule subName="interactionmanager_bj">
+                    <name>interactionmanager_bj</name>
+                    <active>5</active>
+                </subModule>
+                <subModule subName="interactionmanager_sd">
+                    <name>interactionmanager_sd</name>
+                    <active>5</active>
+                </subModule>
+            </subMoList>
+        </module>
+    </moduleList>
+</task>
